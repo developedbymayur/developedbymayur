@@ -1,8 +1,7 @@
 - 👋 @developedbymayur
-- 👀 c embedded c
 - 🌱 software development
-- 💞️  c embedded c
-- 📫 chaudhari.mayur103@gmail.com
+
+
 
 <!---
 developedbymayur/developedbymayur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
